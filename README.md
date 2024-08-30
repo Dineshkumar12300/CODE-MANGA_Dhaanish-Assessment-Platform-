@@ -24,6 +24,8 @@ This module allows administrators and educators to upload customized questions i
 - **Short Answer Questions**
 - **Coding Challenges**
 
+<img src="analyze.png">
+
 It supports bulk upload and provides flexibility in content creation to ensure assessments are tailored to specific job roles.
 
 ### 2. **AI-Powered Proctoring**
@@ -33,29 +35,42 @@ The platform uses real-time AI-powered proctoring, which includes:
 - **Motion Detection:** Monitoring for unusual behavior during the assessment.
 - **Audio Analysis:** Capturing and analyzing ambient sounds to detect unauthorized assistance.
 
+<img src="configure-general.png">
+
 ### 3. **Data Security**
 Ensures end-to-end encryption of candidate data and assessment content. The platform uses the following measures to ensure data privacy:
 - Secure access control.
 - Encrypted storage and transmission.
 - Regular audits and compliance with data privacy regulations.
 
+<img src="configure-grading.png">
+
 ### 4. **Scalability and Performance**
 The platform is built to handle large-scale assessments with automated processes that reduce manual intervention:
 - Supports concurrent assessments for a large number of candidates.
 - Scalable cloud infrastructure for seamless performance even during peak usage times.
 
+<img src="configure-results.png">
+
 ## Stakeholders
 1. **Primary Stakeholders**
    - **Candidates:** Participate in assessments and receive real-time feedback.
    - **Educators/Instructors:** Design assessments, upload questions, and review performance reports.
+
+<img src="create.png">
+
 2. **Secondary Stakeholders**
    - **IT/Security Teams:** Ensure platform security and reliability.
    - **Platform Developers:** Continuously enhance features based on user feedback.
+
+<img src="new ques.png">
 
 ## User Roles
 - **Candidates:** Complete assessments with AI monitoring.
 - **Educators/Instructors:** Upload and manage assessment content, track performance.
 - **Administrators:** Oversee platform operations, manage users, ensure system security.
+
+<img src="preview.png">
 
 ## Process Flow
 ### Candidates:
@@ -64,28 +79,41 @@ The platform is built to handle large-scale assessments with automated processes
 3. **Start Assessment** with AI Proctoring
 4. **Submit and Review Results**
 
+<img src="profile.png">
+
 ### Educators/Instructors:
 1. **Login and Dashboard Access**
 2. **Create/Upload Assessment Content**
 3. **Monitor Performance and Feedback**
+
+<img src="publish.png">
 
 ### Administrators:
 1. **User Management**
 2. **Assessment Setup and Monitoring**
 3. **Generate Reports and Manage Security**
 
+<img src="results.png">
+
 ## Algorithms and AI
 - **Natural Language Processing (NLP):** For text classification and sentiment analysis.
 - **Machine Learning:** To predict scores and categorize responses.
 - **AI Proctoring:** Using facial recognition, eye-tracking, and sound anomaly detection to monitor candidates in real-time.
+
+<img src="s-dashboard.png">
 
 ## Reporting
 - **Assessment Reports:** Overview of test scores, individual performance, and frequently missed questions.
 - **Proctoring Reports:** Summary of flagged incidents and detailed proctoring logs.
 - **User Activity Reports:** Track user engagement and activities for auditing and compliance purposes.
 
+<img src="s-ongoing test.png">
+
 ## System Requirements
 To use the platform efficiently, the following system requirements are recommended:
+
+
+<img src="s-profile.png">
 
 ### For Candidates:
 - **Browser:** Latest versions of Chrome, Firefox, or Safari.
@@ -93,16 +121,20 @@ To use the platform efficiently, the following system requirements are recommend
 - **Internet:** Minimum speed of 5 Mbps.
 - **OS:** Windows 10 or later, macOS 10.15 or later.
 
+<img src="s-test saved.png"><img src="s-test started.png">
+
 ### For Educators/Administrators:
 - **Browser:** Latest versions of Chrome, Firefox, or Safari.
 - **Hardware:** No additional requirements beyond a standard computer.
 - **Internet:** Minimum speed of 10 Mbps for monitoring multiple assessments.
 
+ <img src="s-tests.png"> <img src="s-view result.png">
+
 ## Installation Instructions
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/assessment-platform.git
+   git clone https://github.com/Dineshkumar12300/CODE-MANGA_Dhaanish-Assessment-Platform-.git
    cd assessment-platform
    ```
 
